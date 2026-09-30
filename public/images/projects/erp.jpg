@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 675" width="1200" height="675">
+  <rect width="1200" height="675" fill="#0b0c10"/>
+  <rect x="50" y="50" width="1100" height="575" rx="16" fill="#13151c" stroke="#27272a" stroke-width="2"/>
+  <!-- Top Bar -->
+  <rect x="50" y="50" width="1100" height="50" rx="16" fill="#1b1d28"/>
+  <circle cx="90" cy="75" r="7" fill="#ef4444"/>
+  <circle cx="115" cy="75" r="7" fill="#f59e0b"/>
+  <circle cx="140" cy="75" r="7" fill="#10b981"/>
+  <text x="600" y="80" text-anchor="middle" fill="#a1a1aa" font-family="monospace" font-size="16">erp-business-system.internal.private</text>
+
+  <!-- Confidential overlay -->
+  <rect x="350" y="240" width="500" height="200" rx="16" fill="#1c1917" stroke="#f59e0b" stroke-width="2"/>
+  <text x="600" y="320" text-anchor="middle" fill="#f59e0b" font-family="monospace" font-weight="bold" font-size="24">PRIVATE PROJECT</text>
+  <text x="600" y="360" text-anchor="middle" fill="#a1a1aa" font-family="sans-serif" font-size="16">ERP &amp; Business Management System</text>
+  <text x="600" y="390" text-anchor="middle" fill="#71717a" font-family="monospace" font-size="13">Selected technical details available upon request</text>
+</svg>
